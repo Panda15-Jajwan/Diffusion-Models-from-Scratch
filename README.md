@@ -1,0 +1,2 @@
+# Diffusion-Models-from-Scratch-Building-Your-Own-Image-Generator
+By the end of this program, each mentee will have built — entirely from scratch — a working diffusion model capable of generating original images, along with a polished interactive demo and a technical blog post explaining their work. No black-box API calls. Every component (UNet, noise scheduler, sampling loop) will be implemented and understood.
